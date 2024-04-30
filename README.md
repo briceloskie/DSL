@@ -1,7 +1,7 @@
 # DSL Active Clustering Method
 
 ## Introduction
-DSL (Dynamic Sparse Learning) is an active clustering method designed to process large-scale data effectively. This method focuses on enhancing efficiency and scalability when applying pairwise constraint-based active clustering across various fields, including data mining, knowledge annotation, and AI model pre-training. Our approach is structured around three primary objectives:
+DSL (Data Skeleton Learning) is an active clustering method designed to process large-scale data effectively. This method focuses on enhancing efficiency and scalability when applying pairwise constraint-based active clustering across various fields, including data mining, knowledge annotation, and AI model pre-training. Our approach is structured around three primary objectives:
 
 1. **Reduce Computational Costs:** By minimizing the computational demands associated with iterative clustering updates, we aim to streamline the processing of large datasets.
 2. **Enhance Constraint Impact:** We strive to maximize the utility of user-provided constraints to reduce the annotation efforts required for precise clustering outcomes.
